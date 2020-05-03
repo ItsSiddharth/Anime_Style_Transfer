@@ -4,3 +4,6 @@ Unet_Scratch/
 gallery-dl/
 .ipynb_checkpoints
 data/
+edge_dataset_anime.npy
+colour_dataset_anime.npy
+bandw_dataset_anime.npy
